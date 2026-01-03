@@ -1,0 +1,58 @@
+Última atualização Dez 2025
+Adailson Aguiar
+Desenvolvedor Frontend | React | Typescript | NextJS
+ Palmas, Tocantins, Brasil  adailsonacj@live.com  adailsonaguiar  adailsonaguiar
+Resumo
+Formado em Sistemas de Informação pela UniCatólica e atuando como Desenvolvedor Frontend na act digital, Adailson
+contribui ativamente para projetos de grande impacto alocado no Hospital Israelita Albert Einstein. É um profissional
+dedicado à inovação contínua, ao aprimoramento de habilidades e ao desenvolvimento colaborativo, sempre buscando
+soluções eficientes e de alta qualidade.
+Experiência Profissional
+SysMap Solutions, Desenvolvedor Frontend
+• Participa ativamente no desenvolvimento de soluções web e mobile utilizando React,
+React Native, Styled Components e Vite.
+• Possui experiência sólida com testes (Vitest, Jest), backend em NestJS, bancos de dados
+com Prisma e TypeORM.
+• Implementa soluções utilizando Docker e arquitetura de microfrontends, garantindo a
+escalabilidade e a manutenibilidade das aplicações.
+Atuando no Hospital Albert
+Einstein
+Jul 2025 – presente
+act digital, Desenvolvedor Frontend
+• Participou ativamente no desenvolvimento e manutenção de aplicações web utilizando
+ReactJS, Storybook, Styled Components e Testing Library.
+• Contribuiu para a melhoria da experiência do usuário através da implementação de interfaces intuitivas e responsivas.
+• Colaborou com equipes multidisciplinares para garantir a entrega de projetos de alta
+qualidade dentro do prazo e do orçamento.
+Atuando no Hospital Albert
+Einstein
+Jun 2021 – Jul 2025
+Aqua Tecnologia, Desenvolvedor Frontend
+• Desenvolveu e manteve aplicações web utilizando React e React Native.
+Jan 2021 – Jun 2021
+Mídia 3 Tecnologia e Criação, Desenvolvedor Frontend
+• Desenvolveu e manteve aplicações web e mobile com React e React Native.
+Fev 2020 – Jan 2021
+URPay, Desenvolvedor Frontend
+• Desenvolveu aplicações web com Angular 6+.
+Ago 2019 – Dez 2019
+Tribunal de Contas do Estado do Tocantins, Estagiário em Desenvolvimento
+• Auxiliou no desenvolvimento e manutenção de sistemas internos.
+• Participou da implementação de novas funcionalidades e correções de bugs.
+• Colaborou com a equipe de desenvolvimento na criação de soluções eficientes e inovadoras.
+Palmas e Região, Brasil
+Fev 2018 – Jul 2019
+Formação Acadêmica
+Bacharelado
+UniCatólica – Centro Universitário Católica do Tocantins, Sistemas de Informação Jan 2015 – Jan 2019
+Competências
+Habilidades Técnicas: Webpack, Module Federation, Front-End Development, React, React Native, Styled Components,
+Testing Library, Vitest, Jest, NestJS, Prisma, TypeORM, Docker, Microfrontends, Angular 6+, JavaScript, TypeScript, Next.js
+Adailson Aguiar – 1/2
+Certificações
+JavaScript: Formação Básica
+1º Hackathon Fish Challenges
+Become Remote
+Nível A1 de Inglês
+Next.js Full stack: arquitetura de componentes Front-end
+Adailson Aguiar – 2/2
